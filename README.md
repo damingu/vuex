@@ -4,7 +4,7 @@
 >
 >  진짜 도망가고 싶었지만 좋은 조를 만나서 참 다행입니다.🙂
 >
->  간단하게 Vue 와 java-spring boot 를 잘 정리해 보도록 하겠습니다.
+>  간단하게 Vue 잘 정리해 보도록 하겠습니다.
 >
 >  자료 출처 :[vuex cheat shee](https://vuejs-tips.github.io/vuex-cheatsheet/), [vuex](https://www.youtube.com/watch?v=Y5-pkaCFqw0&feature=youtu.be)
 >
